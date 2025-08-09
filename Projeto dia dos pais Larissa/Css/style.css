@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#105b8d;
+}
+
+.container{
+    width: 80;
+    height: 80;
+    display: flex;
+    box-shadow: 5px 5px 10px #44b6d3;
+}
+.form-image{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.Titulo{
+    justify-content: center;
+    align-items: center;
+    margin-right: 100%;
+    margin-top: 150%;
+}
+.Texto {
+     width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+ 
+}
